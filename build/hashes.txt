@@ -1,1 +1,0 @@
-barsikos_v03.bin: sha256:55d7b526b9c3326e6938040e15a2af665dd374df9bf0cac4319c4ea3d1dc1fb1
